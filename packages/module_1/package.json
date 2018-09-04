@@ -9,6 +9,9 @@
   "dependencies": {
     "module_0": "^0.0.2"
   },
+  "publishConfig": {
+    "registry": "http://10.1.6.28"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",

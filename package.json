@@ -3,8 +3,5 @@
   "private": true,
   "devDependencies": {
     "lerna": "^3.2.1"
-  },
-  "publishConfig": {
-    "registry": "http://10.1.6.28"
   }
 }
